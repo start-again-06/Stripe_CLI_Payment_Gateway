@@ -1,0 +1,6 @@
+# Build output
+/stripe-payments
+*.exe
+
+# Local secrets: never commit real keys
+.env
